@@ -5,7 +5,7 @@ function log()
 
 if(user=="carlos" && pass=="2210")
 {
-    window.location= "/Proyecto6/html/principal.html";
+    window.location= "/principal.html";
 }
 else
 {
@@ -13,7 +13,7 @@ else
 }
 if(user=="kanae" && pass=="0001")
     {
-        window.location= "/Proyecto6/html/principal.html";
+        window.location= "/principal.html";
     }
     else
     {
